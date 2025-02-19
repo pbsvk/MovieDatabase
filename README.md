@@ -16,8 +16,6 @@
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
 4. [Quick Start](#quick-start)
-5. [Algorithm Overview](#algorithm)
-6. [Code Snippets](#snippets)
 <img width="1916" alt="image" src="https://github.com/user-attachments/assets/9927a270-3811-4771-bb05-487210dc97b8" />
 
 ## Introduction
