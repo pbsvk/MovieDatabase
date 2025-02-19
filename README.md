@@ -1,8 +1,54 @@
-# React + Vite
+<div align="center">
+  <br />
+      <img src="https://github.com/user-attachments/assets/acb3c1e6-04ef-4787-a602-f16abe9a04fe" alt="Project Banner">
+    </a>
+  <br />
+  
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h3 align="center">Movie Database - Discover any movie in the world and checkout what's trending</h3>
+</div>
 
-Currently, two official plugins are available:
+## 📋 Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. [Introduction](#introduction)
+2. [Tech Stack](#tech-stack)
+3. [Features](#features)
+4. [Quick Start](#quick-start)
+5. [Algorithm Overview](#algorithm)
+6. [Code Snippets](#snippets)
+
+## Introduction
+
+Movie Database is an innovative movie browsing and discovery platform built using React.js, integrated with Appwrite for backend services, and styled with TailwindCSS. The application utilizes a sophisticated algorithm for showcasing trending movies, enhancing user experience with dynamic content delivery.
+
+## Tech Stack
+
+- **React.js** - For building the user interface.
+- **Appwrite** - Backend server for handling API requests and database management.
+- **Tailwind CSS** - For designing a responsive and modern UI.
+
+## Features
+
+- **Browse All Movies**: Explore a comprehensive collection of movies.
+- **Search Functionality**: Look up movies quickly using the search feature.
+- **Trending Algorithm**: Leverages historical data and user preferences to display trending movies.
+- **Responsive Design**: Ensures the website is functional on all devices.
+- **User-Friendly Interface**: Easy navigation and minimalistic design.
+
+## Quick Start
+
+**Prerequisites**
+- Git
+- Node.js
+- npm
+
+**Cloning and Installation**
+```bash
+git clone https://github.com/pbsvk/moviedatabase.git
+cd MovieDatabase
+npm install
